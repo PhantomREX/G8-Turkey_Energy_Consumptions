@@ -16,17 +16,17 @@ Kullanılan kütüphaneler:
 -import matplotlib.pyplot   <p>
 -from sklearn                        import tree <p>
 -from sklearn                        import metrics <p>
-from sklearn.tree                   import DecisionTreeClassifier  <p>
-from sklearn.model_selection        import train_test_split <p>
-from sklearn.preprocessing          import StandardScaler <p>
-from sklearn.metrics                import confusion_matrix <p>
-from sklearn                        import utils <p>
-from sklearn.linear_model           import LinearRegression <p>
-from sklearn.linear_model           import LogisticRegression <p>
-from sklearn.neighbors              import KNeighborsClassifier <p>
-from sklearn.discriminant_analysis  import LinearDiscriminantAnalysis <p>
-from sklearn.naive_bayes            import GaussianNB <p>
-from sklearn.svm                    import SVC <p>
-from sklearn.model_selection        import cross_val_score <p>
-from sklearn.cluster                import KMeans <p>
-from sklearn.metrics                import r2_score, mean_absolute_error, mean_squared_error <p>
+-from sklearn.tree                   import DecisionTreeClassifier  <p>
+-from sklearn.model_selection        import train_test_split <p>
+-from sklearn.preprocessing          import StandardScaler <p>
+-from sklearn.metrics                import confusion_matrix <p>
+-from sklearn                        import utils <p>
+-from sklearn.linear_model           import LinearRegression <p>
+-from sklearn.linear_model           import LogisticRegression <p>
+-from sklearn.neighbors              import KNeighborsClassifier <p>
+-from sklearn.discriminant_analysis  import LinearDiscriminantAnalysis <p>
+-from sklearn.naive_bayes            import GaussianNB <p>
+-from sklearn.svm                    import SVC <p>
+-from sklearn.model_selection        import cross_val_score <p>
+-from sklearn.cluster                import KMeans <p>
+-from sklearn.metrics                import r2_score, mean_absolute_error, mean_squared_error <p>
