@@ -14,7 +14,7 @@ Kullanılan kütüphaneler:
 -import seaborn <p>
 -import numpy <p>
 -import matplotlib.pyplot   <p>
--from sklearn           word-spacing:        import tree <p>
+-from sklearn          <p style="line-height:50px;">       import tree <p>
 -from sklearn              &#160;     import metrics <p>
 -from sklearn.tree                &#160;   import DecisionTreeClassifier  <p>
 -from sklearn.model_selection        import train_test_split <p>
