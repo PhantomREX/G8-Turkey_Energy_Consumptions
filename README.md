@@ -14,7 +14,9 @@ Kullanılan kütüphaneler:
 -import seaborn <p>
 -import numpy <p>
 -import matplotlib.pyplot   <p>
--from sklearn             import tree <p>
+  
+  <pre>
+-from sklearn            import tree <p>
 -from sklearn               import metrics <p>
 -from sklearn.tree                 import DecisionTreeClassifier  <p>
 -from sklearn.model_selection        import train_test_split <p>
@@ -30,3 +32,5 @@ Kullanılan kütüphaneler:
 -from sklearn.model_selection        import cross_val_score <p>
 -from sklearn.cluster                import KMeans <p>
 -from sklearn.metrics                import r2_score, mean_absolute_error, mean_squared_error <p>
+
+</pre>
