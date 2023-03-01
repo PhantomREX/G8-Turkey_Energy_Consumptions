@@ -14,7 +14,7 @@ Kullanılan kütüphaneler:
 
 -import pandas 
 -import seaborn 
--import numpy <p>
+-import numpy 
 -import matplotlib.pyplot  
 -from sklearn                        import tree 
 -from sklearn                        import metrics 
