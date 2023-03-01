@@ -14,9 +14,9 @@ Kullanılan kütüphaneler:
 -import seaborn <p>
 -import numpy <p>
 -import matplotlib.pyplot   <p>
--from sklearn                        import tree <p>
--from sklearn                        import metrics <p>
--from sklearn.tree                   import DecisionTreeClassifier  <p>
+-from sklearn            &nbsp            import tree <p>
+-from sklearn               &nbsp         import metrics <p>
+-from sklearn.tree                &nbsp   import DecisionTreeClassifier  <p>
 -from sklearn.model_selection        import train_test_split <p>
 -from sklearn.preprocessing          import StandardScaler <p>
 -from sklearn.metrics                import confusion_matrix <p>
