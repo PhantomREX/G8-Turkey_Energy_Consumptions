@@ -10,12 +10,12 @@ Proje özetle veri bilimi teknikleriyle elimizdeki ham veri setlerini işe yarar
 
 Kullanılan kütüphaneler:
 
-import pandas <p>          
-import seaborn <p>      
-import numpy <p>     
-import matplotlib.pyplot   <p>
-from sklearn                        import tree <p>
-from sklearn                        import metrics <p>
+-import pandas <p>          
+-import seaborn <p>      
+-import numpy <p>     
+-import matplotlib.pyplot   <p>
+-from sklearn                        import tree <p>
+-from sklearn                        import metrics <p>
 from sklearn.tree                   import DecisionTreeClassifier  <p>
 from sklearn.model_selection        import train_test_split <p>
 from sklearn.preprocessing          import StandardScaler <p>
